@@ -7,6 +7,9 @@
 
 - 📝 I regularly write articles on [https://medium.com/@chanchalmittal](https://medium.com/@chanchalmittal)
 
+
+[![Chanchal Mittal's's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chanchalmittal&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/chanchalmittal/github-readme-stats)
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
