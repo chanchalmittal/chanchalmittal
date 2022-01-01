@@ -5,13 +5,13 @@
 
 
 
-- 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **Web Development and System Designing**
+- 🔭 I am currently working on **Web Development and System Designing**
 - 🌱 I’m currently learning **DSA**
 - 🤞🏻 I'm looking to collaborate on **any interseting project**
-- 🧐Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
-- 🤓Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎
+- 🧐 Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
+- 🤓 Fun fact : *I always try to learn something new and then sleep till it store in the brain* 😎
 - 📝 I regularly write articles on [https://medium.com/@chanchalmittal](https://medium.com/@chanchalmittal)
-- 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : She/Her/Hers
+- 😄 Pronoun - She/Her/Hers
 
 [![Chanchal's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=chanchalmittal&theme=tokyonight)](https://git.io/praveenscience)
 
