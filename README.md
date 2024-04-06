@@ -7,9 +7,9 @@
 
 - 🔭 I am currently working on **Web Development and System Designing**
 - 🌱 I’m currently learning **DSA**
-- 🤞🏻 I'm looking to collaborate on **any interseting project**
-- 🧐 Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
-- 🤓 Fun fact : *I always try to learn something new and then sleep till it store in the brain* 😎
+- 🤞🏻 I'm looking to collaborate on **any interesting project**
+- 🧐 Ask me anything you want, If I am alive I will answer within seconds 😉<br>
+- 🤓 Fun fact: I always try to learn something new and then sleep till it store in my brain 😎
 - 📝 I regularly write articles on [https://medium.com/@chanchalmittal](https://medium.com/@chanchalmittal)
 - 😄 Pronoun - She/Her/Hers
 
