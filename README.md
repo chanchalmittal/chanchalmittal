@@ -65,9 +65,9 @@ Welcome to my GitHub profile! I'm a passionate developer, lifelong learner, and 
 
 ## 🏆 Recent Projects
 - **[Product-Research-AI-Agent](https://github.com/chanchalmittal/Product-Research-AI-Agent)**  
-  - **Language:** Python  
-  - **Libraries:** (e.g., LangChain, OpenAI, FastAPI, Pandas)  
-  - **Features:** AI-powered agent for automating product research, integrates with various APIs and tools, generates research reports and insights automatically.
+  - **Language:** Python
+  - **Libraries:** (e.g., LangChain, OpenAI, FastAPI, Pandas, CrewAI, Ollama, llama2, nomic-embed-text, OpenSearch, SERPAPI)  
+  - **Features:** AI-powered agent for automating product research, integrating with various APIs and tools to generate research reports and insights automatically.
 
 - **[Patent-Finder](https://github.com/chanchalmittal/Patent-Finder)**  
   - **Language:** Python  
